@@ -7,11 +7,20 @@ a += 12;
 b += 9;
 c += 7;
 
-let a = 11;
-let b = 9;
-let c = 3;
+let a1 = 11;
+let b1 = 9;
+let c1 = 3;
 
 // Only change code below this line
-a -= 6;
-b -= 15;
-c -= 1;
+a1 -= 6;
+b1 -= 15;
+c1 -= 1;
+
+let a2 = 5;
+let b2 = 12;
+let c2 = 4.6;
+
+// Only change code below this line
+a2 *= 5;
+b2 *= 3;
+c2 *= 10;
