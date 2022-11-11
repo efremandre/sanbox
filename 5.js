@@ -24,3 +24,12 @@ let c2 = 4.6;
 a2 *= 5;
 b2 *= 3;
 c2 *= 10;
+
+let a3 = 48;
+let b3 = 108;
+let c3 = 33;
+
+// Only change code below this line
+a3 /= 12;
+b3 /= 4;
+c3 /= 11;
