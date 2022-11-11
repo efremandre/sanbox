@@ -1,8 +1,4 @@
-/*
-var should not exist in the code.
-Waiting:catName should be the string Oliver.
-Waiting:catSound should be the string Meow!
-*/
-
-let catName = "Oliver";
-let catSound = "Meow!";
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(FCC, fact); // Change this line
